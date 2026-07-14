@@ -2,6 +2,14 @@
 
 Frontend Developer passionate about building modern, fast, and user-friendly web applications. Alongside development, I work as the Chief Marketing Officer (CMO) at [Setoo](https://www.setoo.co), combining technology, product thinking, and growth strategies to build impactful digital experiences.
 
+## 🌐 Connect with me
+
+[![Website](https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://setoo.co)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Girish_Boke-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://in.linkedin.com/in/girish-boke-696552109)
+
+[![GitHub](https://img.shields.io/badge/GitHub-@girishboke-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/girishboke)
+
 ## 🚀 What I'm working on
 
 * 🔭 Building modern frontend applications
@@ -10,7 +18,9 @@ Frontend Developer passionate about building modern, fast, and user-friendly web
 * 📈 Applying technology to solve business and growth challenges
 
 ## 🛠️ Tech Stack
-
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,vite,nodejs,git,github,vscode,figma" />
+</p>
 * JavaScript (ES6+)
 * TypeScript
 * React
