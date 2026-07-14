@@ -5,9 +5,7 @@ Frontend Developer passionate about building modern, fast, and user-friendly web
 ## 🌐 Connect with me
 
 [![Website](https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://setoo.co)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Girish_Boke-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://in.linkedin.com/in/girish-boke-696552109)
-
 [![GitHub](https://img.shields.io/badge/GitHub-@girishboke-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/girishboke)
 
 ## 🚀 What I'm working on
