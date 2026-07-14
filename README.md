@@ -1,12 +1,41 @@
-### Hey there 👋
+# Hey there! 👋 I'm Girish Boke
 
+Frontend Developer passionate about building modern, fast, and user-friendly web applications. Alongside development, I work as the Chief Marketing Officer (CMO) at [Setoo](https://www.setoo.co), combining technology, product thinking, and growth strategies to build impactful digital experiences.
 
-Myself **Girish** and I am Frontend Developer and CMO at [Setoo](https://www.setoo.co).
+## 🚀 What I'm working on
 
-Here are some of the stuff I do in my daily life:
+* 🔭 Building modern frontend applications
+* 🤖 Exploring AI-driven development and developer workflows
+* ⚡ Creating performant, accessible, and scalable user interfaces
+* 📈 Applying technology to solve business and growth challenges
 
-- 🔭 I’m currently working on WordPress Development, SEO and Marketing stuff.
-- 🌱 I’m currently learning Marketing, SEO and SEM.
-- 📫 How to reach me: you can reach me [here](girish.boke@gmail.com)
-- 💬 Ask me about any question you have, and I am happy to help.
+## 🛠️ Tech Stack
 
+* JavaScript (ES6+)
+* TypeScript
+* React
+* Next.js
+* HTML5 & CSS3
+* Tailwind CSS
+* Git & GitHub
+* AI-assisted development tools
+
+## 🌱 Currently Learning
+
+* AI-powered software development
+* Modern frontend architecture
+* Performance optimization
+* Advanced SEO & digital growth
+
+## 💡 Ask me about
+
+* Frontend Development
+* React & Next.js
+* TypeScript
+* UI/UX Best Practices
+* AI-assisted Development
+* SEO & Digital Marketing
+
+## 📫 Connect with me
+
+Feel free to reach out if you'd like to collaborate, discuss ideas, or simply say hello!
